@@ -1,14 +1,5 @@
 <h1 align="center">🤖 Arxiv RAG Assistant</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
-  <img src="https://img.shields.io/badge/Status-Active-blue" />
-  <img src="https://img.shields.io/badge/UI-Gradio-black?logo=gradio" />
-  <img src="https://img.shields.io/badge/Vector%20DB-ChromaDB-0f9d58" />
-  <img src="https://img.shields.io/badge/Embeddings-all--MiniLM--L6--v2-ff69b4" />
-  <img src="https://img.shields.io/badge/LLM-Ollama%20Mistral-000000" />
-</p>
 
 <p align="center">
   A lightweight <b>Retrieval-Augmented Generation (RAG)</b> app to search AI/ML papers and answer questions with citations.  
